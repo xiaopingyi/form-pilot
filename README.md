@@ -95,8 +95,8 @@ FormPilot 是一款智能表单填充 Chrome 扩展，专为前端开发者和�
 ## 📸 截图预览
 
 <p align="center">
-  <img src="./assets/screenshot-1.png" alt="智能填充" width="400">
-  <img src="./assets/screenshot-2.png" alt="录制回放" width="400">
+  <img src="./assets/智能填充.png" alt="智能填充" width="400">
+  <img src="./assets/录制回放.png" alt="录制回放" width="400">
 </p>
 
 ## 📮 问题反馈
