@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📧 邮件联系
+    url: mailto:yxp1213@gmail.com
+    about: 如果不方便提交 Issue，可以通过邮件联系
